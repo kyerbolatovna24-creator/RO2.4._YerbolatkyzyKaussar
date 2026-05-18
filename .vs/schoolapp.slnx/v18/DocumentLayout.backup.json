@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\studentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\studentdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\studentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\studentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\studentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\studentdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|c:\\users\\thinkstation31\\source\\repos\\schoolapp\\schoolapp\\studentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C831A6-4AFF-06DC-9137-38496BD70111}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\studentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\StudentDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentDetailPage.xaml.cs",
+              "RelativeToolTip": "SchoolApp\\StudentDetailPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:42:29.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\StudentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentsPage.xaml.cs",
+              "RelativeToolTip": "SchoolApp\\StudentsPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:42:00.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentDetailPage.xaml",
+              "RelativeDocumentMoniker": "SchoolApp\\StudentDetailPage.xaml",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentDetailPage.xaml",
+              "RelativeToolTip": "SchoolApp\\StudentDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T13:38:22.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentsPage.xaml",
+              "RelativeDocumentMoniker": "SchoolApp\\StudentsPage.xaml",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\StudentsPage.xaml",
+              "RelativeToolTip": "SchoolApp\\StudentsPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T13:37:05.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "SchoolApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\AppShell.xaml",
+              "RelativeToolTip": "SchoolApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T13:28:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SchoolApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml",
+              "RelativeToolTip": "SchoolApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-18T13:26:39.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "SchoolApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:25:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MauiProgram.cs",
+              "RelativeToolTip": "SchoolApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:40:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "SchoolApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:40:41.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
