@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
@@ -83,10 +83,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
@@ -98,8 +94,7 @@
               "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\SchoolApp.csproj",
               "RelativeToolTip": "SchoolApp\\SchoolApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-28T11:43:28.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T11:43:28.36Z"
             },
             {
               "$type": "Document",
@@ -107,12 +102,11 @@
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\ViewModels\\Person.cs",
               "RelativeDocumentMoniker": "SchoolApp\\ViewModels\\Person.cs",
-              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\ViewModels\\Person.cs*",
-              "RelativeToolTip": "SchoolApp\\ViewModels\\Person.cs*",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\ViewModels\\Person.cs",
+              "RelativeToolTip": "SchoolApp\\ViewModels\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T11:05:29.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T11:05:29.694Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,8 @@
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "SchoolApp\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml*",
-              "RelativeToolTip": "SchoolApp\\MainPage.xaml*",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml",
+              "RelativeToolTip": "SchoolApp\\MainPage.xaml",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwCUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-05-18T13:26:39.623Z",
@@ -229,12 +223,11 @@
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "SchoolApp\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml.cs*",
-              "RelativeToolTip": "SchoolApp\\MainPage.xaml.cs*",
+              "ToolTip": "C:\\Users\\ThinkStation31\\source\\repos\\schoolapp\\SchoolApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "SchoolApp\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:40:41.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:40:41.019Z"
             }
           ]
         }
