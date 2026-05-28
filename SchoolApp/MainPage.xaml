@@ -3,20 +3,38 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SchoolApp.MainPage">
 
-    <VerticalStackLayout
-        Padding="30"
-        Spacing="25"
-        VerticalOptions="Center">
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30"
+            Spacing="20">
 
-        <Label
-            Text="Welcome to SchoolApp!"
-            FontSize="32"
-            HorizontalOptions="Center" />
+            <!-- L15 Name Card -->
 
-        <Button Text="Open students list"
-                Clicked="OnOpenStudentsClicked"
-                HorizontalOptions="Center" />
+            <Label
+                Text="Name card"
+                FontSize="22"
+                FontAttributes="Bold" />
 
-    </VerticalStackLayout>
+            <Entry
+                Text="{Binding Name}"
+                Placeholder="Edit your name" />
+
+            <Label
+                Text="{Binding Name}"
+                FontSize="20" />
+
+            <Label
+                Text="{Binding City}"
+                FontSize="16"
+                TextColor="Gray" />
+
+            <!-- L14 Button -->
+
+            <Button
+                Text="Open students list"
+                Clicked="OnOpenStudentsClicked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
 
 </ContentPage>
